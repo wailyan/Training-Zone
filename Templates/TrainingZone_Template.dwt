@@ -1,0 +1,27 @@
+<!doctype html>
+<html>
+<head>
+<meta charset="utf-8">
+<!-- TemplateBeginEditable name="doctitle" -->
+<title>Untitled Document</title>
+<!-- TemplateEndEditable -->
+<link href="../css/globalstyle.css" rel="stylesheet" type="text/css">
+<!-- TemplateBeginEditable name="head" -->
+<!-- TemplateEndEditable -->
+</head>
+
+<body>
+<div id="Banner">
+  <h1>Training Zone</h1>
+</div>
+<div id="nav_bar">
+  <h2><a href="../index.html">Home</a> <a href="../contact.html">Contact</a> <a href="../Announcements.html">Announcements</a> <a href="../Links.html">Links</a></h2>
+</div>
+<div id="content"><!-- TemplateBeginEditable name="content " -->
+<p>Body</p>
+<!-- TemplateEndEditable --></div>
+<div id="footer">
+  <p>Footer</p>
+</div>
+</body>
+</html>
